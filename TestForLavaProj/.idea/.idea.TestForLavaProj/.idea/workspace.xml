@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00973644-dd2f-462a-862e-95c67f2a32b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main/NavMesh-NavMeshController.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main/NavMesh-NavMeshController.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestForLavaProj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Character/RagDollController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Character/RagDollController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +37,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers/PointPath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character/RagDollController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/241D6641-D420-412E-BA26-F5151C5D40E9/93/cb4ff07d/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/LvlLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character/AIController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,13 +53,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Settings/TypeBulletForce.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Settings/CharacterSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/AttackStateMachine.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Character/AttackController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character/CharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character/asf.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Character/RagDollController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/LvlLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Guns/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/AttackController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Triggers/PointPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/RagDollController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character/AIController.cs" />
       </list>
     </option>
   </component>
@@ -98,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618395405027</updated>
-      <workItem from="1618395428513" duration="16796000" />
+      <workItem from="1618395428513" duration="18703000" />
     </task>
     <servers />
   </component>

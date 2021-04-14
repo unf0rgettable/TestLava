@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.AI;
 
 namespace Character
 {
@@ -15,6 +16,7 @@ namespace Character
             {
                 GetComponent<Animator>().enabled = !enable;
                 item.isKinematic = !enable;
+                GetComponent<NavMeshAgent>().enabled = !enable;
             }
         }
     }

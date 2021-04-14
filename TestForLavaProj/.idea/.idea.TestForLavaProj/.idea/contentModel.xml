@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Character" t="Include">
+            <e p="AIController.cs" t="Include" />
             <e p="AttackController.cs" t="Include" />
             <e p="CharacterController.cs" t="Include" />
             <e p="CharacterState.cs" t="Include" />
@@ -27,6 +28,7 @@
             <e p="TypeBulletForce.cs" t="Include" />
           </e>
           <e p="Triggers" t="Include">
+            <e p="PointPath.cs" t="Include" />
             <e p="TriggerAttacks.cs" t="Include" />
           </e>
         </e>
