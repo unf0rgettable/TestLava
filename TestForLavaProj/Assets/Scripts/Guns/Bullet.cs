@@ -30,7 +30,9 @@ namespace Guns
             {
                 if (collider.TryGetComponent(out RagDollController ragDollController))
                 {
-                    ragDollController.RagDollEnable(false);
+                    ragDollController.RagDollEnable(true);
+                    ragDollController.GetComponent<Collider>().enabled = false;
+                    ragDollController.GetComponent<Rigidbody>().isKinematic = true;
                     //ragDollController.GetComponent<Rigidbody>().AddExplosionForce(Impulse, transform.position, 6);
                 }
 

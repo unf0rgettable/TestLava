@@ -32,11 +32,11 @@ namespace Character
             switch (typeBulletForce)
             {
                 case TypeBulletForce.Low:
-                    return 10;
+                    return 1000;
                 case TypeBulletForce.Medium:
-                    return 20;
+                    return 3000;
                 case TypeBulletForce.High:
-                    return 30;
+                    return 6000;
                 default: return 0;
             }
         }
